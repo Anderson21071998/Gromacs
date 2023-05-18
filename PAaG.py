@@ -3,7 +3,10 @@
 
 # In[2]:
 
-
+import matplotlib.pyplot as plt
+import plotly.express as px
+import numpy as np
+import pandas as pd
 import subprocess
 import sys
 import os
